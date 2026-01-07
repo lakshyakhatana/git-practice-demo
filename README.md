@@ -1,4 +1,4 @@
 # git-practice-demo
 This Is My First Repository.
 <br>
-Author - Lakshya Singh
+Author - Lakshya Khatana
